@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <string name="app_name">UsrAutoLink</string>
+   <string name="action_settings">Settings</string>
+   <string name="no_ssid">未发现此ssid</string>
+    <string name="error_pasd_length">密码长度不正确</string>
+    <string name="confing_end">发送成功，配置完成，请检查模块的状态</string>
+</resources>
